@@ -18,7 +18,6 @@ public class Exceptions {
         } finally {
             System.out.println("This error always will occur when you try to access to non-existent element");
         }
-        System.out.println("This message should be after try-catch");
 
     }
 }
