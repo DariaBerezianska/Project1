@@ -1,14 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61028a8e-a52f-4ae9-8407-3ef2c45209ac" name="Changes" comment="" />
+    <list default="true" id="61028a8e-a52f-4ae9-8407-3ef2c45209ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part1_Arrays/TwoDimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part1_Arrays/TwoDimensionalArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part2_wrappers/WrapperClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part2_wrappers/WrapperClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part3_array_list/ArrayListEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3_array_list/ArrayListEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part3_array_list/ArrayListEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3_array_list/ArrayListEx2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part3_array_list/ArrayListSyntax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part3_array_list/ArrayListSyntax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part4_read_write_to_file/ReadWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part4_read_write_to_file/ReadWrite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part5_exceptions/Exceptions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part5_exceptions/Exceptions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part6_1_classes/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part6_1_classes/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part6_1_classes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part6_1_classes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part6_2_classes/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part6_2_classes/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/part6_2_classes/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/part6_2_classes/Person.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NyTqp6ULfeqFoYCZOBotS2wlYq" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +43,45 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="ArrayListEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part3_array_list.ArrayListEx2" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part3_array_list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part5_exceptions.Exceptions" />
+      <module name="Project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part5_exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exceptions" />
+        <item itemvalue="Application.ArrayListEx2" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +90,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680635518605</updated>
+      <workItem from="1680635519805" duration="53529000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package part6_classes;
+package part6_1_classes;
 
 public class Main {
     public static void main(String[] args) {
